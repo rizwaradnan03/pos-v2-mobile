@@ -1,0 +1,1 @@
+export type RoleEnum = "CASHIER" | "ADMIN" | "SUPER_ADMIN"
